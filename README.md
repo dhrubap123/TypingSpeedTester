@@ -1,0 +1,1 @@
+This is a typing speed tester. It helps to enhance your typing speed. It shows blue outline if your typed text is matching the given text and greeen if it totally matches with the given text and if not mathes then red outline. Timer will runn untill you type the correct sentence as given in the box.
